@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>terminator.png</file>
+    <file>gnome-fs-ssh.png</file>
+    <file>stock_refresh.png</file>
+    <file>emblem-certified.png</file>
+    <file>sshconnector.png</file>
+    <file>stock_connect.png</file>
+    <file>stock_disconnect.png</file>
+    <file>add.svg</file>
+    <file>alacarte.svg</file>
+    <file>edit-delete.svg</file>
+    <file>gtk-edit.svg</file>
+    <file>application-exit.png</file>
+    <file>document-new.png</file>
+    <file>gnome-netstatus-tx.png</file>
+    <file>connect_no.png</file>
+    <file>connect_creating.png</file>
+  </qresource>
+</RCC>
